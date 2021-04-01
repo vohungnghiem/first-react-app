@@ -13,7 +13,7 @@ const PRODUCTS = [
 ];
 ReactDOM.render(
   <React.StrictMode>
-    <App products={PRODUCTS} />
+    <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );
